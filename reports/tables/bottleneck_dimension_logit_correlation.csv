@@ -1,0 +1,17 @@
+dimension,active_on_test,spearman_with_logit,p_value,adjusted_p_value,absolute_spearman,statistically_significant,logit_direction
+dimension_10,True,-0.9922219479494649,0.0,0.0,0.9922219479494649,True,negativna povezanost sa logitom
+dimension_16,True,-0.9898136326242376,0.0,0.0,0.9898136326242376,True,negativna povezanost sa logitom
+dimension_7,True,-0.9890787412263142,0.0,0.0,0.9890787412263142,True,negativna povezanost sa logitom
+dimension_15,True,-0.9843897926356979,0.0,0.0,0.9843897926356979,True,negativna povezanost sa logitom
+dimension_4,True,0.8673158733699149,0.0,0.0,0.8673158733699149,True,pozitivna povezanost sa logitom
+dimension_2,True,0.8574787839165982,0.0,0.0,0.8574787839165982,True,pozitivna povezanost sa logitom
+dimension_5,True,0.8418409565854411,0.0,0.0,0.8418409565854411,True,pozitivna povezanost sa logitom
+dimension_8,True,0.19110420271692408,9.483267057608928e-163,1.3039492204212277e-162,0.19110420271692408,True,pozitivna povezanost sa logitom
+dimension_9,True,0.15420888341517192,5.489238873081719e-106,6.709069733766545e-106,0.15420888341517192,True,pozitivna povezanost sa logitom
+dimension_12,True,0.08738060458534234,5.552128105252292e-35,6.107340915777522e-35,0.08738060458534234,True,pozitivna povezanost sa logitom
+dimension_1,True,0.007789258801578478,0.2722595441731915,0.2722595441731915,0.007789258801578478,False,bez značajne povezanosti
+dimension_3,False,,,,,False,nije testirano
+dimension_6,False,,,,,False,nije testirano
+dimension_11,False,,,,,False,nije testirano
+dimension_13,False,,,,,False,nije testirano
+dimension_14,False,,,,,False,nije testirano

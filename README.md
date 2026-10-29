@@ -1,4 +1,4 @@
-# Hospital Readmission Prediction and Neural Representation Analysis
+﻿# Hospital Readmission Prediction and Neural Representation Analysis
 
 Master's thesis project in Information Engineering at the Faculty of Organizational Sciences, University of Belgrade.
 
@@ -31,4 +31,3 @@ The project uses the diabetes hospital encounters dataset (Strack et al.; UCI Ma
 
 Python and Jupyter; principal libraries include pandas, NumPy, scikit-learn, PyTorch, category_encoders, Optuna, Matplotlib, SciPy, and joblib.
 
-> **Upload status:** README is available; the full original project archive has not yet been committed. This note will be removed once the files are uploaded.

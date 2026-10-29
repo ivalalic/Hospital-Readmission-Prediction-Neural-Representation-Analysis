@@ -1,0 +1,4 @@
+split,rows,positive_count,positive_rate_percent
+train,59604,6788,11.39
+validation,19868,2263,11.39
+test,19868,2263,11.39

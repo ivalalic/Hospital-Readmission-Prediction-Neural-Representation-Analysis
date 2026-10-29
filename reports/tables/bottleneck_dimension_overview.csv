@@ -1,0 +1,17 @@
+dimension,mean_activation,activation_std,active_fraction,active_on_test,rank_biserial,class_adjusted_p_value,effect_direction,spearman_with_logit,logit_adjusted_p_value,logit_direction,output_weight,mean_contribution,mean_absolute_contribution,output_direction
+dimension_16,1.642536,1.7911456,0.7317797463257499,True,-0.32355087995529175,0.0,veće bez readmisije,-0.9898136326242376,0.0,negativna povezanost sa logitom,-0.2221435,-0.36487937,0.36487937,direktno smanjuje logit
+dimension_10,0.79350173,0.81921065,0.7521139520837528,True,-0.3280062675476074,0.0,veće bez readmisije,-0.9922219479494649,0.0,negativna povezanost sa logitom,-0.071294665,-0.056572493,0.056572493,direktno smanjuje logit
+dimension_7,0.74207413,0.76873696,0.7237769277229716,True,-0.3225865364074707,0.0,veće bez readmisije,-0.9890787412263142,0.0,negativna povezanost sa logitom,-0.07554082,-0.05605674,0.05605674,direktno smanjuje logit
+dimension_4,0.28372198,0.61509895,0.37220656331789814,True,0.29753899574279785,0.0,veće kod readmisije,0.8673158733699149,0.0,pozitivna povezanost sa logitom,0.18109927,0.051381838,0.051381838,direktno povećava logit
+dimension_5,0.31892374,0.74403715,0.3381316690155023,True,0.2863866090774536,0.0,veće kod readmisije,0.8418409565854411,0.0,pozitivna povezanost sa logitom,0.14547114,0.046394225,0.046394225,direktno povećava logit
+dimension_2,0.14054942,0.29058495,0.3583148781960942,True,0.29212796688079834,0.0,veće kod readmisije,0.8574787839165982,0.0,pozitivna povezanost sa logitom,0.077480376,0.010889841,0.010889841,direktno povećava logit
+dimension_15,0.23528425,0.2019416,0.7284578216227099,True,-0.32372182607650757,0.0,veće bez readmisije,-0.9843897926356979,0.0,negativna povezanost sa logitom,-0.01719386,-0.0040454436,0.0040454436,direktno smanjuje logit
+dimension_1,0.0023379752,0.1273525,0.0012583048117576002,True,0.0005745887756347656,0.571980615456899,zanemarljiva razlika,0.007789258801578478,0.2722595441731915,bez značajne povezanosti,-0.104788475,-0.00024499284,0.00024499284,direktno smanjuje logit
+dimension_12,0.0014776761,0.07255364,0.01947855848600765,True,0.00047659873962402344,0.9650158643722534,zanemarljiva razlika,0.08738060458534234,6.107340915777522e-35,pozitivna povezanost sa logitom,-0.105537504,-0.00015595017,0.00015595017,direktno smanjuje logit
+dimension_8,0.010573598,0.035506163,0.1997181397221663,True,-0.00010383129119873047,0.9908007979393005,zanemarljiva razlika,0.19110420271692408,1.3039492204212277e-162,pozitivna povezanost sa logitom,0.01408623,0.00014894195,0.00014894195,direktno povećava logit
+dimension_9,0.00092287833,0.004455476,0.051338836319710084,True,0.0070056915283203125,0.21362755820155144,zanemarljiva razlika,0.15420888341517192,6.709069733766545e-106,pozitivna povezanost sa logitom,-0.0042594057,-3.930914e-06,3.930914e-06,direktno smanjuje logit
+dimension_3,0.0,0.0,0.0,False,0.0,,nije testirano,,,nije testirano,-0.044610538,0.0,0.0,neaktivna na test skupu
+dimension_6,0.0,0.0,0.0,False,0.0,,nije testirano,,,nije testirano,0.18853983,0.0,0.0,neaktivna na test skupu
+dimension_11,0.0,0.0,0.0,False,0.0,,nije testirano,,,nije testirano,0.15432733,0.0,0.0,neaktivna na test skupu
+dimension_14,0.0,0.0,0.0,False,0.0,,nije testirano,,,nije testirano,0.022054411,0.0,0.0,neaktivna na test skupu
+dimension_13,0.0,0.0,0.0,False,0.0,,nije testirano,,,nije testirano,0.17768656,0.0,0.0,neaktivna na test skupu
